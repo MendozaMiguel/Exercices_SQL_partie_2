@@ -1,4 +1,4 @@
-# SQL
+# SQL partie_2
 
 ## Exo 1
 
